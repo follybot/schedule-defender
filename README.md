@@ -1,3 +1,6 @@
+
+<img width="1709" height="885" alt="Screenshot 2026-03-10 at 12 01 48 AM" src="https://github.com/user-attachments/assets/cc68cc2d-0b40-4c0a-969d-68542c0d30fd" />
+
 # schedule-defender
 Decline meetings, frustrate co-workers, and DEFEND YOUR SCHEDULE. A browser-based game disguised as a work calendar. Single HTML file, no dependencies.
 # 📅 Schedule Defender
